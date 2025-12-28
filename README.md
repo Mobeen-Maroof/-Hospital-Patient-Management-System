@@ -19,8 +19,6 @@ Screenshots of the project are shown below.
 <img width="944" height="442" alt="HospitalProject2" src="https://github.com/user-attachments/assets/deaf9499-cdf8-4834-9139-8421de61977c" />
 <img width="779" height="451" alt="HospitalProject3" src="https://github.com/user-attachments/assets/0d4f288c-76b6-4be9-adab-43675999388d" />
 
-## Live Project Link
-http://127.0.0.1:5000
 
 
 
